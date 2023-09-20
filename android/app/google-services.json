@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1013365500724",
+    "project_id": "cozy-house-13388",
+    "storage_bucket": "cozy-house-13388.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013365500724:android:86532cab4e8621a91b9361",
+        "android_client_info": {
+          "package_name": "com.example.cozy_house"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOHVhYeQxNVH3UaXGcvQHs4XOaXJAzlw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
